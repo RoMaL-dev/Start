@@ -1,0 +1,6 @@
+/*p { color: red; font-family: Arial; font-size: large; } 
+@charset "UTF-8";
+@media  {
+body { font-size: 100pt } }
+Este es un comentario en CSS */
+p { color: black; font-family: Verdana; } 
